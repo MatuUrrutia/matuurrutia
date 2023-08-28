@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Matias Urrutia de Teran</h1>
 <h3 align="center">Fullstack developer | Front-end designer from Chile</h3>
 
+I have advanced knowledge in JavaScript, CSS, HTML, React, Redux, Git, GitHub, Node JS, among others.
+
+As a professional, I stand out for my focus on the quality of work, which involves dedication and meticulous attention. I enjoy working in teams and getting to know new people to share knowledge and experiences in the field.
+
+In addition to being a programmer and web developer, I am also a licensed architect from the Pontifical Catholic University of Chile and hold a Master's degree in Sustainability and Energy. I have experience using design tools such as AutoCAD, Photoshop, InDesign, Revit, Lumion, SketchUp, among others.
+
+I am a native Spanish speaker and also have a proficient command of English as a second language.
+
 - 🔭 I’m currently working on [Puebla del Mar](https://soy-puebla-deploy.vercel.app/)
 
 - 🌱 I’m currently learning **Phyton, Tailwind,**
